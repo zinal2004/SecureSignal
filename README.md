@@ -19,11 +19,10 @@ SecureSignal is a secure, AI-powered web application that enables users to repor
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js, TypeScript, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Prisma ORM  
-- **Database**: MongoDB (via Prisma adapter)  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
 - **AI**: Gemini API (for report/image summarization)  
 - **Auth**: JWT for secure login/signup  
-- **Deployment**: Vercel (frontend), Render/Railway (backend)
 
 ---
 
